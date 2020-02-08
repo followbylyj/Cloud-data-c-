@@ -9,7 +9,7 @@
 
 
 *欢迎加入作者私人[codeing团队]*(https://followbylyj.cloudstudio.net)
-## 莆田一中[online judge](ptyzoj.nat400.top)戳这里
+## 莆田一中[online judge](http://ptyzoj.nat400.top)戳这里
 #### 你还等什么？快来享受coding的乐趣吧！
 
 作者的[博客](https://epdozp.coding.io)戳这里
