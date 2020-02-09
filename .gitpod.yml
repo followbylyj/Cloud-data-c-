@@ -7,3 +7,8 @@ image:
 vscode:
   extensions:
     - ms-vscode.cpptools@0.26.2:Pq/tmf2WN3SanVzB4xZc1g==
+
+vscode:
+  extensions:
+    - Dart-Code.flutter@3.3.0-beta.4:wCqXa/Ih/LTzfyko19agfQ==
+    - Dart-Code.dart-code@3.3.0-beta.4:z+hDckQldFt7W9jYHkgiTQ==
