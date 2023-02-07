@@ -12,4 +12,4 @@
 ## 莆田一中[online judge](http://ptyzoj.nat400.top)戳这里
 #### 你还等什么？快来享受coding的乐趣吧！
 
-作者的[博客](https://followbylyj.top)戳这里
+作者的[博客](https://www.cnblogs.com/followbylyj)戳这里
